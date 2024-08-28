@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: PlexeAPI
+Version: 1.0
+Summary: Python API for Plexe
+Home-page: http://github.com/michele-segata/plexe-pyapi
+Author: Michele Segata
+Author-email: michele.segata@gmail.com
+License: GPL
